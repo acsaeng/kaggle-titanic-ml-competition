@@ -1,8 +1,23 @@
-# Project proposal for *YOUR PROJECT TITEL*
-Author: *YOUR NAME*
+# Project Proposal for Kaggle's Titanic Machine Learning Competition
+Author: Aron Saengchan
 
-## 1. Why: Question/Topic being investigated 1pt
+## 1. Why?: Question/Topic being Investigated (1 pt)
 
-## 2. How: Plan of attack 1pt
+Kaggle is one of the best known sources in the data science and machine learning community for publishing/accessing datasets, collaborating with other practitioners, and hosting competitions. As such, I believe that the most beneficial way to test my machine learning knowledge is to enter a machine learning competition.
 
-## 3. What: Dataset, models, framework, components 2pts
+Many online forums recommend Kaggle's Titanic Machine Learning Competition as one of the best starting points for users entering their first competition. Therefore, I have decided to enter this competition and apply what I have learned in this class to build a robust machine learning model as part of this project.
+
+## 2. How?: Plan of Attack (1 pt)
+
+I have created an account and entered the Titanic Machine Learning Competition on Kaggle. To get started, I will watch the provided introductory videos to plan my course of action. Then I will prepare a Jupyter notebook to develop my supervised machine learning classification models and train the provided dataset on it.
+
+I will draw from many of the supervised classification models taught in class and will use parts of the notebooks from Labs 1-3 as templates to solve the problems I encounter as required. If time permits, I will also try to ensemble some models together in an attempt to achieve more accurate results.
+
+## 3. What?: Dataset, Models, Framework, and Components (2 pts)
+
+The following resources will be used for the submission of this project:
+- [Kaggle competition interface](https://www.kaggle.com/c/titanic/overview)
+- [scikit-learn supervised learning classifiers](https://scikit-learn.org/stable/supervised_learning.html) (e.g., logistic regression, support vector classifiers, random forests, gradient boosting, etc.)
+- Ensemble learning - [scikit-learn ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html) and various [tutorials on ensemble learning](https://www.youtube.com/results?search_query=ensemble+learning)
+
+As roughly stated in the previous section, I will develop the machine learning models on a Jupyter notebook and train them using the provided dataset. I will submit my predictions on Kaggle and report the results back in the notebook.  
