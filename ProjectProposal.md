@@ -16,7 +16,7 @@ I will draw from many of the supervised classification algorithms and techniques
 ## 3. What?: Dataset, Models, Framework, and Components (2 pts)
 
 The following resources will be used in the submission of this project:
-- [Kaggle competition interface](https://www.kaggle.com/c/titanic/overview)
+- [Kaggle's competition interface](https://www.kaggle.com/c/titanic/overview)
 - [scikit-learn supervised learning classifiers](https://scikit-learn.org/stable/supervised_learning.html) (e.g., logistic regression, support vector classifiers, random forests, gradient boosting, etc.)
 - Ensemble learning - [scikit-learn ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html) and various [tutorials on ensemble learning](https://www.youtube.com/results?search_query=ensemble+learning)
 
