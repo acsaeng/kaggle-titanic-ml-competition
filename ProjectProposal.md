@@ -17,7 +17,7 @@ I will draw from many of the supervised classification algorithms and techniques
 
 The following resources will be used in the submission of this project:
 - [Kaggle's competition interface](https://www.kaggle.com/c/titanic/overview)
-- [scikit-learn supervised learning classifiers](https://scikit-learn.org/stable/supervised_learning.html) (e.g., logistic regression, support vector classifiers, random forests, gradient boosting, etc.)
-- Ensemble learning - [scikit-learn ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html) and various [tutorials on ensemble learning](https://www.youtube.com/results?search_query=ensemble+learning)
+- [scikit-learn: supervised learning classifiers](https://scikit-learn.org/stable/supervised_learning.html) (e.g., logistic regression, support vector classifiers, random forests, gradient boosting, etc.)
+- Ensemble learning - [scikit-learn: ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html) and various [tutorials on ensemble learning](https://www.youtube.com/results?search_query=ensemble+learning)
 
 As roughly stated in the previous section, I will develop the machine learning models on a Jupyter notebook and train them using the provided dataset. I will submit my predictions on Kaggle and report the results back in the notebook.
