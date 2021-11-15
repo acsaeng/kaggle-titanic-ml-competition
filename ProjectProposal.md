@@ -3,7 +3,7 @@ Author: Aron Saengchan
 
 ## 1. Why?: Question/Topic being Investigated (1 pt)
 
-Kaggle is one of the best known sources in the data science and machine learning community for publishing/accessing datasets, collaborating with other practitioners, and hosting competitions. As such, I believe that the most beneficial way to improve my machine learning knowledge is to enter a machine learning competition.
+Kaggle is one of the best known sources in the data science and machine learning community for publishing/accessing datasets, collaborating with other practitioners, and hosting competitions. As such, I believe that the most beneficial way to improve my machine learning knowledge at this point is to enter into a machine learning competition.
 
 Many online forums recommend Kaggle's Titanic Machine Learning Competition as one of the best starting points for users entering their first competition. Therefore, I have decided to enter this competition and apply what I have learned in this class to build a robust machine learning model as part of this project.
 
