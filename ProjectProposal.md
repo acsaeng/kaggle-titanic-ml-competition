@@ -9,7 +9,7 @@ Many online forums recommend Kaggle's Titanic Machine Learning Competition as on
 
 ## 2. How?: Plan of Attack (1 pt)
 
-I have created an account and entered the Titanic Machine Learning Competition on Kaggle. To get started, I will watch the provided introductory videos and plan my course of action. Then I will prepare a Jupyter notebook to develop my supervised machine learning classification models and train the provided dataset on it.
+I have created an account and joined the Titanic Machine Learning Competition on Kaggle. To get started, I will watch the provided introductory videos and plan my course of action. Then I will prepare a Jupyter notebook to develop my supervised machine learning classification models and train the provided dataset on it.
 
 I will draw from many of the supervised classification algorithms and techniques taught in class and will use parts of the notebooks from labs 1 to 3 as templates to solve any problems I encounter, as required. If time permits, I will also try to ensemble some models together in an attempt to achieve more accurate results.
 
