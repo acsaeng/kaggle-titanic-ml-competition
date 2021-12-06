@@ -50,6 +50,12 @@ Each machine learning model was put to the test using column transformer to arra
 
 Although this is a good start, there is also certainly much to be improved with these models in order to achieve better scores. With more time, there are a couple of modification that could be made for this project, both in feature extraction and model tuning. One aspect of the features that was completely removed from the beginning was the `Name` column. Many of the names listed here contain certain title (Miss, Mr., Mrs., etc.). This a one feature that could potentially remain if handled and implemented methodically. Another addition that could help when handling the data and in optimizing the model is using a scaler. Depending on the model, a scaler could have definitely been implemented and possibly improve the results, especially for a model like the support vector classifier.
 
-  # Reflection
+# Reflection
 
-  *A copy of this is also found in Sections 6.3 of the Jupyter notebook*
+*A copy of this is also found in Sections 6.3 of the Jupyter notebook*
+
+This competition was a was a good way to showcase what I have learned over the past semester and test my knowledge. It was interesting to walk through the entire process of using real-world data to build supervised machine learning models on my own. After completing this project, I better understand the importance of properly analyzing and manipulating data, realizing that the choices you make on presenting the input data to the model can ultimately determine the effectiveness of it. I also learned how to implement useful tools provided by sci-kit such as the column transformer and grid search to improve my workflow and build more robust machine learning models.
+
+Unfortunately, time did not permit me to implement everything I would have like to. One task that I was not able to complete was attempting to ensemble some models together. This would involve combining a set of models in order to maximize the potential of each and attain a better score. Along with the improvement listed in the previous section, this is a feature that I hope to implement when I revisit this competition again and I hope to really improve upon what I accomplished so far.
+
+Overall, I really enjoyed this project, as I've always been fascinated with machine learning in general in predicting real-world data. I hope to a lot more about learn machine learning in the future and potentially attempt more advanced projects and competitions on my own. Thank you for providing means and the opportunity for us to undertake a project such as this!
