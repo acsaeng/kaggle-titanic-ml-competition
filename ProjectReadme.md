@@ -2,7 +2,7 @@
 This project includes the following directories and files:
 - `data/` - Training and testing Titanic datasets provided by Kaggle
 - `results/` - Screenshots of the submission results
-- `submission/` - .csv files containing the predictions from each developed machine learning model
+- `submissions/` - .csv files containing the predictions from each developed machine learning model
 - `project.ipynb` - Main project file containing all analyses and results
 - `ProjectProposal.md` - Project proposal submitted at the beginning of this project
 - `ProjectReadme.md` - Project directives and conclusions (this file)
