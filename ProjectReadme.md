@@ -37,7 +37,7 @@ Results are tabulated and visualized in the accompanying Jupyter notebook (*proj
 
 # Interpretation
 
-*A copy of this is also found in Sections 6.2 of the notebook*
+*A copy of this is also found in Section 6.2 of the notebook*
 
 In this investigation, machine learning techniques were applied to Kaggle's Titanic dataset to determine if a given passenger survived or did not survive the disaster. The provided data was first imported, analyzed, and visualized to gain some insight on the problem and determine an effective plan of action. The dataset was then modified to be more workable by encoding features, addressing empty values, and removing irrelevant information. Four different supervised machine learning classifiers were used in this analysis - linear regression, support vector machine, random forest, and gradient boosting.
 
@@ -47,7 +47,7 @@ Although this is a good start, there is also certainly much to be improved with 
 
 # Reflection
 
-*A copy of this is also found in Sections 6.3 of the notebook*
+*A copy of this is also found in Section 6.3 of the notebook*
 
 This competition was a was a good way to showcase what I have learned over the past semester and in testing my knowledge. It was interesting to walk through the entire process of using real-world data to build supervised machine learning models on my own. After completing this project, I better understand the importance of properly analyzing and manipulating datasets for machine learning model. Another aspect that I have come to realize is that the choices you make on how you present the input data to the model can ultimately determine the true effectiveness of it. In addition, I also learned how to implement useful tools provided by sci-kit learn, such as the column transformer and grid search to improve my workflow and build more robust machine learning models.
 
