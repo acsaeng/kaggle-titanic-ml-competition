@@ -8,7 +8,7 @@ Kaggle's Titanic Machine Learning Competition is widely known as one of the more
 
 The first part of this notebook starts by walking though the procedures of importing and analyzing the data, both through general observation and graphical visualization, identifying aspects that may be relevant to what we are attempting to accomplish. The second part follows the steps of properly transforming the data in making it more applicable for a number of supervised classification machine learning models. The four models that were tested include:
 - Logistic regression
-- Support vector classifier
+- Support vector classification
 - Random forest regression
 - Gradient boosting
 
